@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "angular": "~1.2.23",
-    "bootstrap-tour": "~0.9.3",
+    "bootstrap-tour": "git://github.com/EnobaDevelopers/bootstrap-tour.git#dd1c22fe0746bcbcc7ac08ecb0ebb415cb0fc14f",
     "jquery": "1.11.1",
     "bootstrap": "3.0.3",
     "angular-route": "1.2.16"
